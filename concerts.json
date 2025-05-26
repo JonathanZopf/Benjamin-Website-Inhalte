@@ -1,0 +1,742 @@
+{
+  "concerts": [
+    {
+      "date": "2024-12-14T15:00:00",
+      "link": "https://www.rncm.ac.uk/performance/chabrier-letoile/",
+      "localized_concert_details_de": {
+        "title": "Oper: Emmanuel Chabrier â€“ Lâ€™Ã‰toile",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Sinfonieorchester",
+        "programme": "Lâ€™Ã‰toile von Emmanuel Chabrier"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: Emmanuel Chabrier â€“ Lâ€™Ã‰toile",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Symphony Orchestra",
+        "programme": "Lâ€™Ã‰toile by Emmanuel Chabrier"
+      }
+    },
+    {
+      "date": "2025-01-12T16:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Sinfoniekonzert: Stravinsky, Britten & Schtschedrin",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Sinfonieorchester",
+        "programme": "Werke von Igor Stravinsky, Benjamin Britten, Rodion Schtschedrin"
+      },
+      "localized_concert_details_en": {
+        "title": "Symphony Concert: Stravinsky, Britten & Shchedrin",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Symphony Orchestra",
+        "programme": "Works by Igor Stravinsky, Benjamin Britten, Rodion Shchedrin"
+      }
+    },
+    {
+      "date": "2025-01-16T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Shlomowitz und Werke von RNCM-Studenten",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Sinfonieorchester",
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Shlomowitz and works by RNCM students",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Symphony Orchestra",
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-03-06T19:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Werke von Beethoven, Prokofjew und Patrick Gorry",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Sinfonieorchester",
+        "conductors": "Andrew Manze und Benjamin Huth",
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Works by Beethoven, Prokofiev, and Patrick Gorry",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Symphony Orchestra",
+        "conductors": "Andrew Manze and Benjamin Huth",
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-03-21T19:30:00",
+      "link": "https://www.rncm.ac.uk/performance/manchester-camerata-and-rncm-present-dvoraks-cello-concerto/",
+      "localized_concert_details_de": {
+        "title": "Werke von BartÃ³k, KodÃ¡ly und DvoÅ™Ã¡k",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Sinfonieorchester",
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Works by BartÃ³k, KodÃ¡ly, and DvoÅ™Ã¡k",
+        "venue": "RNCM Concert Hall",
+        "orchestra": "RNCM Symphony Orchestra",
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-04-30T19:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Konzert mit dem RNCM Sinfonieorchester",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Sinfonieorchester",
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Concert with the RNCM Symphony Orchestra",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "RNCM Symphony Orchestra",
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-06-07T19:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Sinfoniekonzert: Bach, Mendelssohn & Hindemith",
+        "venue": "Konzerthaus Detmold",
+        "orchestra": "Philharmonisches Orchester Hagen",
+        "programme": "Werke von Johann Sebastian Bach, Felix Mendelssohn Bartholdy, Paul Hindemith"
+      },
+      "localized_concert_details_en": {
+        "title": "Symphony Concert: Bach, Mendelssohn & Hindemith",
+        "venue": "Detmold Concert Hall",
+        "orchestra": "Philharmonic Orchestra Hagen",
+        "programme": "Works by Johann Sebastian Bach, Felix Mendelssohn Bartholdy, Paul Hindemith"
+      }
+    },
+    {
+      "date": "2025-06-08T18:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Sinfoniekonzert: Bach, Mendelssohn & Hindemith",
+        "venue": "St. Meinolfkirche Hagen",
+        "orchestra": "Philharmonisches Orchester Hagen",
+        "programme": "Werke von Johann Sebastian Bach, Felix Mendelssohn Bartholdy, Paul Hindemith"
+      },
+      "localized_concert_details_en": {
+        "title": "Symphony Concert: Bach, Mendelssohn & Hindemith",
+        "venue": "St. Meinolf Church, Hagen",
+        "orchestra": "Philharmonic Orchestra Hagen",
+        "programme": "Works by Johann Sebastian Bach, Felix Mendelssohn Bartholdy, Paul Hindemith"
+      }
+    },
+    {
+      "date": "2025-08-23T19:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Gala",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Gala",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-09-07T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-09-16T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-09-23T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Sinfoniekonzert mit Manchester Camerata",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "Manchester Camerata",
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Symphony Concert with Manchester Camerata",
+        "venue": "Royal Northern College of Music, Manchester",
+        "orchestra": "Manchester Camerata",
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-10-04T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-10-08T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Der fliegende HollÃ¤nder",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: The Flying Dutchman",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      }
+    },
+    {
+      "date": "2025-10-12T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-11-09T18:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-11-15T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Premiere: Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "Premiere: The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2025-11-16T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Ballettabend: Hieronymus B.",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Ballet Evening: Hieronymus B.",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-11-23T15:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2025-12-02T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2025-12-04T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Der fliegende HollÃ¤nder",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: The Flying Dutchman",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      }
+    },
+    {
+      "date": "2025-12-05T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2025-12-10T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2025-12-20T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Weihnachtskonzert",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Christmas Concert",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2025-12-25T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Der fliegende HollÃ¤nder",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: The Flying Dutchman",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      }
+    },
+    {
+      "date": "2025-12-31T19:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2026-01-08T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Scharoun Theater Wolfsburg",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Scharoun Theatre, Wolfsburg",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2026-01-10T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: La Traviata",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: La Traviata",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-01-17T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Der fliegende HollÃ¤nder",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: The Flying Dutchman",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Richard Wagner"
+      }
+    },
+    {
+      "date": "2026-02-03T15:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2026-02-05T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: La Traviata",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: La Traviata",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-02-11T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Macbeth",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: Macbeth",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-02-22T18:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Schlosskonzert",
+        "venue": "Schloss OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Castle Concert",
+        "venue": "OsnabrÃ¼ck Castle",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2026-02-28T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: La Traviata",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: La Traviata",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-03-12T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Eduard KÃ¼nneke"
+      }
+    },
+    {
+      "date": "2026-03-19T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: La Traviata",
+        "venue": "Konzert Theater Coesfeld",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: La Traviata",
+        "venue": "Concert Theatre Coesfeld",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-03-20T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Macbeth",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: Macbeth",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-03-29T18:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Sinfoniekonzert",
+        "venue": "Kulturhaus LÃ¼denscheid",
+        "orchestra": null,
+        "programme": null
+      },
+      "localized_concert_details_en": {
+        "title": "Symphony Concert",
+        "venue": "Cultural Centre LÃ¼denscheid",
+        "orchestra": null,
+        "programme": null
+      }
+    },
+    {
+      "date": "2026-04-03T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Macbeth",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: Macbeth",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-05-21T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Oper: Macbeth",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      },
+      "localized_concert_details_en": {
+        "title": "Opera: Macbeth",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Giuseppe Verdi"
+      }
+    },
+    {
+      "date": "2026-06-06T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    },
+    {
+      "date": "2026-06-12T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    },
+    {
+      "date": "2026-06-24T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    },
+    {
+      "date": "2026-06-27T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    },
+    {
+      "date": "2026-06-28T15:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    },
+    {
+      "date": "2026-07-02T19:30:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Carmina Burana",
+        "venue": "Theater OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      },
+      "localized_concert_details_en": {
+        "title": "Carmina Burana",
+        "venue": "Theatre OsnabrÃ¼ck",
+        "orchestra": null,
+        "programme": "Carl Orff"
+      }
+    }
+  ]
+}
