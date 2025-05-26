@@ -4,16 +4,16 @@
       "date": "2024-12-14T15:00:00",
       "link": "https://www.rncm.ac.uk/performance/chabrier-letoile/",
       "localized_concert_details_de": {
-        "title": "Oper: Emmanuel Chabrier â€“ Lâ€™Ã‰toile",
+        "title": "Oper: Emmanuel Chabrier – L’Étoile",
         "venue": "Royal Northern College of Music, Manchester",
         "orchestra": "RNCM Sinfonieorchester",
-        "programme": "Lâ€™Ã‰toile von Emmanuel Chabrier"
+        "programme": "L’Étoile von Emmanuel Chabrier"
       },
       "localized_concert_details_en": {
-        "title": "Opera: Emmanuel Chabrier â€“ Lâ€™Ã‰toile",
+        "title": "Opera: Emmanuel Chabrier – L’Étoile",
         "venue": "Royal Northern College of Music, Manchester",
         "orchestra": "RNCM Symphony Orchestra",
-        "programme": "Lâ€™Ã‰toile by Emmanuel Chabrier"
+        "programme": "L’Étoile by Emmanuel Chabrier"
       }
     },
     {
@@ -70,13 +70,13 @@
       "date": "2025-03-21T19:30:00",
       "link": "https://www.rncm.ac.uk/performance/manchester-camerata-and-rncm-present-dvoraks-cello-concerto/",
       "localized_concert_details_de": {
-        "title": "Werke von BartÃ³k, KodÃ¡ly und DvoÅ™Ã¡k",
+        "title": "Werke von Bartók, Kodály und Dvořák",
         "venue": "RNCM Concert Hall",
         "orchestra": "RNCM Sinfonieorchester",
         "programme": null
       },
       "localized_concert_details_en": {
-        "title": "Works by BartÃ³k, KodÃ¡ly, and DvoÅ™Ã¡k",
+        "title": "Works by Bartók, Kodály, and Dvořák",
         "venue": "RNCM Concert Hall",
         "orchestra": "RNCM Symphony Orchestra",
         "programme": null
@@ -135,13 +135,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Gala",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Gala",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -151,13 +151,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -167,13 +167,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -199,13 +199,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -214,14 +214,14 @@
       "date": "2025-10-08T19:30:00",
       "link": null,
       "localized_concert_details_de": {
-        "title": "Oper: Der fliegende HollÃ¤nder",
-        "venue": "Theater OsnabrÃ¼ck",
+        "title": "Oper: Der fliegende Holländer",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       },
       "localized_concert_details_en": {
         "title": "Opera: The Flying Dutchman",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       }
@@ -231,13 +231,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -247,13 +247,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -263,15 +263,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Premiere: Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "Premiere: The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -279,13 +279,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Ballettabend: Hieronymus B.",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Ballet Evening: Hieronymus B.",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -295,15 +295,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -311,29 +311,29 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
       "date": "2025-12-04T19:30:00",
       "link": null,
       "localized_concert_details_de": {
-        "title": "Oper: Der fliegende HollÃ¤nder",
-        "venue": "Theater OsnabrÃ¼ck",
+        "title": "Oper: Der fliegende Holländer",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       },
       "localized_concert_details_en": {
         "title": "Opera: The Flying Dutchman",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       }
@@ -343,15 +343,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -359,15 +359,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -375,13 +375,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Weihnachtskonzert",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Christmas Concert",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": null
       }
@@ -390,14 +390,14 @@
       "date": "2025-12-25T19:30:00",
       "link": null,
       "localized_concert_details_de": {
-        "title": "Oper: Der fliegende HollÃ¤nder",
-        "venue": "Theater OsnabrÃ¼ck",
+        "title": "Oper: Der fliegende Holländer",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       },
       "localized_concert_details_en": {
         "title": "Opera: The Flying Dutchman",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       }
@@ -407,15 +407,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -425,13 +425,13 @@
         "title": "Der Vetter aus Dingsda",
         "venue": "Scharoun Theater Wolfsburg",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
         "venue": "Scharoun Theatre, Wolfsburg",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -439,13 +439,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: La Traviata",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: La Traviata",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -454,14 +454,14 @@
       "date": "2026-01-17T19:30:00",
       "link": null,
       "localized_concert_details_de": {
-        "title": "Oper: Der fliegende HollÃ¤nder",
-        "venue": "Theater OsnabrÃ¼ck",
+        "title": "Oper: Der fliegende Holländer",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       },
       "localized_concert_details_en": {
         "title": "Opera: The Flying Dutchman",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Richard Wagner"
       }
@@ -471,15 +471,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -487,13 +487,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: La Traviata",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: La Traviata",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -503,13 +503,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: Macbeth",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: Macbeth",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -519,13 +519,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Schlosskonzert",
-        "venue": "Schloss OsnabrÃ¼ck",
+        "venue": "Schloss Osnabrück",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Castle Concert",
-        "venue": "OsnabrÃ¼ck Castle",
+        "venue": "Osnabrück Castle",
         "orchestra": null,
         "programme": null
       }
@@ -535,13 +535,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: La Traviata",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: La Traviata",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -551,15 +551,15 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Der Vetter aus Dingsda",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       },
       "localized_concert_details_en": {
         "title": "The Cousin from Nowhere",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
-        "programme": "Eduard KÃ¼nneke"
+        "programme": "Eduard Künneke"
       }
     },
     {
@@ -583,13 +583,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: Macbeth",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: Macbeth",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -599,13 +599,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Sinfoniekonzert",
-        "venue": "Kulturhaus LÃ¼denscheid",
+        "venue": "Kulturhaus Lüdenscheid",
         "orchestra": null,
         "programme": null
       },
       "localized_concert_details_en": {
         "title": "Symphony Concert",
-        "venue": "Cultural Centre LÃ¼denscheid",
+        "venue": "Cultural Centre Lüdenscheid",
         "orchestra": null,
         "programme": null
       }
@@ -615,13 +615,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: Macbeth",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: Macbeth",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -631,13 +631,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Oper: Macbeth",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       },
       "localized_concert_details_en": {
         "title": "Opera: Macbeth",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
@@ -647,13 +647,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
@@ -663,13 +663,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
@@ -679,13 +679,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
@@ -695,13 +695,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
@@ -711,13 +711,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
@@ -727,13 +727,13 @@
       "link": null,
       "localized_concert_details_de": {
         "title": "Carmina Burana",
-        "venue": "Theater OsnabrÃ¼ck",
+        "venue": "Theater Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       },
       "localized_concert_details_en": {
         "title": "Carmina Burana",
-        "venue": "Theatre OsnabrÃ¼ck",
+        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Carl Orff"
       }
