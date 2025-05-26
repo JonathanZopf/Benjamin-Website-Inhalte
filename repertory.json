@@ -1,8 +1,8 @@
 {
   "repertory": [
-{
+    {
       "pieceTitle": "Imeneo",
-      "composerName": "G.F. HÃ¤ndel",
+      "composerName": "G.F. Händel",
       "location": "Leipzig",
       "type": "opera"
     },
@@ -26,21 +26,21 @@
       "type": "opera"
     },
     {
-      "pieceTitle": "Die ZauberflÃ¶te",
+      "pieceTitle": "Die Zauberflöte",
       "composerName": "W.A. Mozart",
       "location": "Opera Cologne",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "opera"
     },
     {
-      "pieceTitle": "Die EntfÃ¼hrung aus dem Serail",
+      "pieceTitle": "Die Entführung aus dem Serail",
       "composerName": "W.A. Mozart",
       "location": "Opera Cologne",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "opera"
     },
     {
-      "pieceTitle": "HÃ¤nsel und Gretel",
+      "pieceTitle": "Hänsel und Gretel",
       "composerName": "E. Humperdinck",
       "location": "Leipzig Conservatory",
       "type": "opera"
@@ -130,7 +130,7 @@
     },
     {
       "pieceTitle": "Rusalka",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Opera Cologne",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "opera"
@@ -156,7 +156,7 @@
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "opera"
     },
-{
+    {
       "pieceTitle": "Kommilitonen",
       "composerName": "P.M. Davies",
       "location": "Leipzig Conservatory",
@@ -217,7 +217,7 @@
       "type": "opera"
     },
     {
-      "pieceTitle": "Das schlaue FÃ¼chslein",
+      "pieceTitle": "Das schlaue Füchslein",
       "composerName": "L. Janacek",
       "location": "Leipzig",
       "seasonYear": "2022-01-01T00:00:00.000",
@@ -231,7 +231,7 @@
       "type": "opera"
     },
     {
-      "pieceTitle": "Im weiÃŸen RÃ¶ssl",
+      "pieceTitle": "Im weißen Rössl",
       "composerName": "R. Benatzky",
       "location": "Opera Cologne",
       "seasonYear": "2018-01-01T00:00:00.000",
@@ -253,7 +253,7 @@
     },
     {
       "pieceTitle": "Der Bettelstudent",
-      "composerName": "C. MillÃ¶cker",
+      "composerName": "C. Millöcker",
       "location": "Leipzig Conservatory",
       "seasonYear": "2020-01-01T00:00:00.000",
       "type": "operetta"
@@ -261,13 +261,13 @@
     {
       "pieceTitle": "Boccaccio",
       "composerName": "F. v. Suppe",
-      "location": "SchÃ¶nebecker Operettensommer",
+      "location": "Schönebecker Operettensommer",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "operetta"
     },
     {
       "pieceTitle": "Fledermaus",
-      "composerName": "J. StrauÃŸ Jr.",
+      "composerName": "J. Strauß Jr.",
       "location": "Opera Cologne",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "operetta"
@@ -280,7 +280,7 @@
       "type": "operetta"
     },
     {
-      "pieceTitle": "Das Land des LÃ¤chelns",
+      "pieceTitle": "Das Land des Lächelns",
       "composerName": "F. Lehar",
       "location": "Landestheater Detmold",
       "seasonYear": "2020-01-01T00:00:00.000",
@@ -325,7 +325,7 @@
   "repertoryConductor": [
     {
       "pieceTitle": "Imeneo",
-      "composerName": "G.F. HÃ¤ndel",
+      "composerName": "G.F. Händel",
       "location": "Delitzsch",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "opera"
@@ -352,14 +352,14 @@
       "type": "opera"
     },
     {
-      "pieceTitle": "HÃ¤nsel und Gretel",
+      "pieceTitle": "Hänsel und Gretel",
       "composerName": "E. Humperdinck",
       "location": "Leipzig",
       "seasonYear": "2016-01-01T00:00:00.000",
       "type": "opera"
     },
     {
-      "pieceTitle": "Der FreischÃ¼tz",
+      "pieceTitle": "Der Freischütz",
       "composerName": "C. M. von Weber",
       "location": "Zwickau",
       "seasonYear": "2024-01-01T00:00:00.000",
@@ -395,21 +395,21 @@
     },
     {
       "pieceTitle": "Boccaccio",
-      "composerName": "F. von SuppÃ¨",
-      "location": "SchÃ¶nebeck",
+      "composerName": "F. von Suppè",
+      "location": "Schönebeck",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "operetta"
     },
     {
       "pieceTitle": "Der Bettelstudent",
-      "composerName": "C. MillÃ¶cker",
+      "composerName": "C. Millöcker",
       "location": "Leipzig",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "operetta"
     },
     {
       "pieceTitle": "Die lustige Witwe",
-      "composerName": "F. LehÃ¡r",
+      "composerName": "F. Lehár",
       "location": "Detmold",
       "seasonYear": "2022-01-01T00:00:00.000",
       "type": "operetta"
@@ -471,8 +471,8 @@
       "type": "musical"
     },
     {
-      "pieceTitle": "Das Land des LÃ¤chelns",
-      "composerName": "F. LehÃ¡r",
+      "pieceTitle": "Das Land des Lächelns",
+      "composerName": "F. Lehár",
       "location": "Detmold",
       "seasonYear": "2020-01-01T00:00:00.000",
       "type": "youngTheater"
@@ -492,7 +492,7 @@
       "type": "youngTheater"
     },
     {
-      "pieceTitle": "Concerto grosso g minor op. 6 Nr. 8 â€œFatto per la note di Nataleâ€",
+      "pieceTitle": "Concerto grosso g minor op. 6 Nr. 8 \"Fatto per la note di Natale\"",
       "composerName": "A. Corelli",
       "location": "Leipzig",
       "seasonYear": "2016-01-01T00:00:00.000",
@@ -513,7 +513,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Flute Concertoâ€žIl Gardellinoâ€œ",
+      "pieceTitle": "Flute Concerto \"Il Gardellino\"",
       "composerName": "A. Vivaldi",
       "location": "Leipzig",
       "seasonYear": "2017-01-01T00:00:00.000",
@@ -521,7 +521,7 @@
     },
     {
       "pieceTitle": "Parts from \"Watermusic\"",
-      "composerName": "G. F. HÃ¤ndel",
+      "composerName": "G. F. Händel",
       "location": "Bielefeld",
       "seasonYear": "2021-01-01T00:00:00.000",
       "type": "symphonic"
@@ -576,7 +576,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Overture from \"Die EntfÃ¼hrung aus dem Serail\" KV 384",
+      "pieceTitle": "Overture from \"Die Entführung aus dem Serail\" KV 384",
       "composerName": "W. A. Mozart",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
@@ -611,7 +611,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Meeresstille und glÃ¼ckliche Fahrt",
+      "pieceTitle": "Meeresstille und glückliche Fahrt",
       "composerName": "F. Mendelssohn-Bartholdy",
       "location": "Leipzig",
       "seasonYear": "2015-01-01T00:00:00.000",
@@ -619,35 +619,35 @@
     },
     {
       "pieceTitle": "Concert for Violoncello and Orchestra in b minor op.104",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Leipzig",
       "seasonYear": "2016-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "Symphonie No.5",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Bacau",
       "seasonYear": "2022-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "parts of Symphonie No.8",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Sofia",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "parts of Symphonie No.9",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Sofia",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "Serenade for winds op. 44",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Vogtlandphilharmonie",
       "seasonYear": "2024-01-01T00:00:00.000",
       "type": "symphonic"
@@ -710,36 +710,36 @@
     },
     {
       "pieceTitle": "Electro-magnetische Polka op. 110",
-      "composerName": "J. StrauÃŸ jr.",
+      "composerName": "J. Strauß jr.",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "Fest Marsch op. 452",
-      "composerName": "J. StrauÃŸ jr.",
+      "composerName": "J. Strauß jr.",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
-      "pieceTitle": "MorgenblÃ¤tter-Walzer op. 279",
-      "composerName": "J. StrauÃŸ jr.",
+      "pieceTitle": "Morgenblätter-Walzer op. 279",
+      "composerName": "J. Strauß jr.",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
       "pieceTitle": "Schatz-Walzer op. 418",
-      "composerName": "J. StrauÃŸ jr.",
+      "composerName": "J. Strauß jr.",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Overture of â€œDie Fledermausâ€",
-      "composerName": "J. StrauÃŸ jr.",
-      "location": "SchÃ¶nebeck",
+      "pieceTitle": "Overture of \"Die Fledermaus\"",
+      "composerName": "J. Strauß jr.",
+      "location": "Schönebeck",
       "seasonYear": "2019-01-01T00:00:00.000",
       "type": "symphonic"
     },
@@ -751,7 +751,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Waltz from 'DornrÃ¶schen'",
+      "pieceTitle": "Waltz from 'Dornröschen'",
       "composerName": "P.I. Tchaikovsky",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
@@ -765,7 +765,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "Fantasie Ã¼ber Lortzing`s Oper Undine",
+      "pieceTitle": "Fantasie über Lortzing`s Oper Undine",
       "composerName": "A. Schreiner",
       "location": "Detmold",
       "seasonYear": "2023-01-01T00:00:00.000",
@@ -808,7 +808,7 @@
     },
     {
       "pieceTitle": "Gold und Silber Walzer",
-      "composerName": "F. LehÃ¡r",
+      "composerName": "F. Lehár",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
       "type": "symphonic"
@@ -828,7 +828,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "PrÃ©lude Ã  l'aprÃ¨s-midi d'un faune",
+      "pieceTitle": "Prélude à l'après-midi d'un faune",
       "composerName": "C. Debussy",
       "location": "Nordwestdeutsche Phil.",
       "seasonYear": "2023-01-01T00:00:00.000",
@@ -877,7 +877,7 @@
       "type": "symphonic"
     },
     {
-      "pieceTitle": "FaÃ§ade First and Second Suites for Orchestra",
+      "pieceTitle": "Façade First and Second Suites for Orchestra",
       "composerName": "W. Walton",
       "location": "Leipzig",
       "seasonYear": "2018-01-01T00:00:00.000",
@@ -911,12 +911,13 @@
       "seasonYear": "2024-01-01T00:00:00.000",
       "type": "symphonic"
     },
-{      "pieceTitle": "Six German Dances, D 820",
+    {
+      "pieceTitle": "Six German Dances, D 820",
       "composerName": "Franz Schubert (arr. Anton Webern)",
       "location": "Manchester",
       "seasonYear": "2024-01-01T00:00:00.000",
       "type": "symphonic"
-},
+    },
     {
       "pieceTitle": "Symphonic Dances from West Side Story (Arr. for Windorchestra)",
       "composerName": "L. Bernstein",
@@ -954,7 +955,7 @@
     },
     {
       "pieceTitle": "Serenade for Winds, op. 44",
-      "composerName": "A. DvoÅ™Ã¡k",
+      "composerName": "A. Dvořák",
       "location": "Musikkorps der Bundeswehr",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonicWindOrchestra"
@@ -969,30 +970,30 @@
     {
       "pieceTitle": "Birdland",
       "composerName": "J. Zawinul (Arr. Mark Taylor)",
-      "location": "Bundespolizeiorchester MÃ¼nchen",
+      "location": "Bundespolizeiorchester München",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonicWindOrchestra"
     },
     {
       "pieceTitle": "Music for a Festival",
       "composerName": "P. Sparke",
-      "location": "Bundespolizeiorchester MÃ¼nchen",
+      "location": "Bundespolizeiorchester München",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonicWindOrchestra"
     },
     {
       "pieceTitle": "Keen on Queen",
       "composerName": "J. Murschinski",
-      "location": "Bundespolizeiorchester MÃ¼nchen",
+      "location": "Bundespolizeiorchester München",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonicWindOrchestra"
     },
     {
       "pieceTitle": "Raymond Overture",
       "composerName": "Ambrose Thomas, Arr. Teruaki Matsushiro",
-      "location": "Bundespolizeiorchester MÃ¼nchen",
+      "location": "Bundespolizeiorchester München",
       "seasonYear": "2023-01-01T00:00:00.000",
       "type": "symphonicWindOrchestra"
     }
-]
+  ]
 }
