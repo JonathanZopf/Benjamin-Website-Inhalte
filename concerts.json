@@ -450,22 +450,7 @@
         "programme": "Giuseppe Verdi"
       }
     },
-    {
-      "date": "2026-01-17T19:30:00",
-      "link": null,
-      "localized_concert_details_de": {
-        "title": "Oper: Der fliegende Holländer",
-        "venue": "Theater Osnabrück",
-        "orchestra": null,
-        "programme": "Richard Wagner"
-      },
-      "localized_concert_details_en": {
-        "title": "Opera: The Flying Dutchman",
-        "venue": "Theatre Osnabrück",
-        "orchestra": null,
-        "programme": "Richard Wagner"
-      }
-    },
+  
     {
       "date": "2026-02-03T15:00:00",
       "link": null,
@@ -512,6 +497,22 @@
         "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
+      }
+    },
+     {
+      "date": "2026-02-15T15:00:00",
+      "link": null,
+      "localized_concert_details_de": {
+        "title": "Der Vetter aus Dingsda",
+        "venue": "Theater Osnabrück",
+        "orchestra": null,
+        "programme": "Eduard Künnecke"
+      },
+      "localized_concert_details_en": {
+        "title": "The Cousin from Nowhere",
+        "venue": "Theatre Osnabrück",
+        "orchestra": null,
+        "programme": "Eduard Künnecke"
       }
     },
     {
@@ -574,22 +575,6 @@
       "localized_concert_details_en": {
         "title": "Opera: La Traviata",
         "venue": "Concert Theatre Coesfeld",
-        "orchestra": null,
-        "programme": "Giuseppe Verdi"
-      }
-    },
-    {
-      "date": "2026-03-20T19:30:00",
-      "link": null,
-      "localized_concert_details_de": {
-        "title": "Oper: Macbeth",
-        "venue": "Theater Osnabrück",
-        "orchestra": null,
-        "programme": "Giuseppe Verdi"
-      },
-      "localized_concert_details_en": {
-        "title": "Opera: Macbeth",
-        "venue": "Theatre Osnabrück",
         "orchestra": null,
         "programme": "Giuseppe Verdi"
       }
